@@ -1,0 +1,2 @@
+# dss-garam
+tugas uts
